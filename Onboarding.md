@@ -1,6 +1,6 @@
 # Onboarding
 
-We’ll socialise and introduce new members when they join. They’ll get a warm welcome on the app, as well as a welcome email with some helpful tips. 
+We’ll socialise and introduce new members when they join, by giving them a warm welcome on the app. Additionally they'll get an email with all the information needed to get started. This way they can familiarize themselves in their own time and lookup information later on.
 
 ## Introduction
 
@@ -20,7 +20,7 @@ What else should people know about, <NAME>?
 
 ## Welcome email
 
-We'll send an automated welcome email to new members that, ...
+We'll send an automated welcome email to new members that to help them familiarize with the platform and community.
 
 ```
 Welcome to nelson.social!
