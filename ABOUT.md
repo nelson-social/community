@@ -14,7 +14,7 @@ We encourage you to be respectful and considerate of others, and to use this spa
 
 We look forward to seeing you on nelson.social, and to building a vibrant and supportive community together. Welcome!
 
-# Server rules
+## Server rules
 
 1. Don’t do anything you wouldn’t do in Oso Negro
 2. Be curious
@@ -22,3 +22,7 @@ We look forward to seeing you on nelson.social, and to building a vibrant and su
 4. Don’t spam or excessive commercial posts
 5. Don't be a schmuck
 6. If you fuck up, own it
+
+## Moderation policy
+
+Everyone makes mistakes. If you violate the server rules, you’ll get a friendly reminder. Repeat-offenders get suspended, or banned. We use a four-eyes approach for moderation.
