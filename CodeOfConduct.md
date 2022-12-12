@@ -44,13 +44,14 @@ The following behaviors are considered harassment and are unacceptable within ou
 
   * Anything in violation of our Terms of Service [LINK] including posting anything illegal in Canada.
   * Violence, threats of violence or violent language directed against another person.
-  * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+  * Using slurs or racist, sexist, homophobic, transphobic, ableist or otherwise discriminatory or hateful jokes or language; promoting white supremacy, anti-Semitism, transphobia, castism or other hateful ideologies.
   * Posting or displaying sexually explicit or violent material.
   * Posting or threatening to post other people's personally identifying information ("doxing").
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
   * Unwelcome sexual attention. This includes, sexualized comments or jokes; unwelcomed sexual advances.
   * Deliberate intimidation, stalking or following (online or in person).
-	* Do not debate moderation actions in public. If you disagree with how a moderator enforced this Code of Conduct you may direct-message the moderation team. 
+	* Do not debate moderation actions in public. If you disagree with how a moderator enforced this Code of Conduct you may direct-message the moderation team.
+  * Do not tone police. Messages you see on nelson.social may violate the standards of civility we set on nelson.social, but you should not criticize users for their tone. If the user is a member of the nelson.social community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
 	* Advocating for, or encouraging, any of the above behavior.
 
 ## 6. Consequences of Unacceptable Behavior
