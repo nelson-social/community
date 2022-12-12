@@ -15,8 +15,8 @@ The city of Nelson exists on the traditional unceeded territory territories of t
 ## Goals
 
   1. Provide a safe and welcoming community space for discussing Nelson & area activities, news, events, and experiences.
-	1. Provide a venue for both casual and serious conversation, with the ability for users to opt-out of unwanted content.
-	1. Fun! We aim to foster a community of individuals and business that love being here in the Kootenays. We welcome personal posts, event notices and organizing.
+  1. Provide a venue for both casual and serious conversation, with the ability for users to opt-out of unwanted content.
+  1. Fun! We aim to foster a community of individuals and business that love being here in the Kootenays. We welcome personal posts, event notices and organizing.
 
 ## Non-Goals
 
