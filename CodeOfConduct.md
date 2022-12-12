@@ -67,9 +67,9 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. 
 
-[LINK_TO_REPORTING_GUIDELINES]
+See https://nelson.social/web/@admin for how to contact the moderators.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.
 
@@ -85,7 +85,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact info
 
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
+https://nelson.social/web/@admin
 
 ## License and attribution
 
