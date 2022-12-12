@@ -1,8 +1,8 @@
-# Nelson.social Code of Conduct
+# nelson.social Code of Conduct
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We are committed to providing a friendly, safe and welcoming environment for all regardless of qualities such as gender identity or expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, nationality, ethnicity, socioeconomic status, family structure, spirituality, religion (or lack thereof), education, or other personal traits. We particularly celebrate diversity and do not tolerate bigotry or prejudice.
+We are committed to providing a friendly, safe and welcoming environment for everyone regardless of qualities such as their gender identity or expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, nationality, ethnicity, socioeconomic status, family structure, spirituality, religion (or lack thereof), education, or other personal traits. We particularly celebrate diversity and do not tolerate bigotry or prejudice.
 
 This is a living document, and the nelson.social team will amend this document as necessary to ensure the safety of our users.
 
@@ -28,7 +28,7 @@ While it's important to know what nelson.social is, it's just as important to un
 
 You may [find another server](https://instances.social/) to be a better fit if you don't like these rules.
 
-## 3. Expected Behavior
+## Expected Behavior
 
 The following behaviors are expected and requested of all community members:
 
@@ -39,7 +39,7 @@ The following behaviors are expected and requested of all community members:
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
   * Be mindful of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
   
-## 4. Unacceptable Behavior
+## Unacceptable Behavior
 
 If you wouldn't do it in Oso Negro, don't do it on nelson.social either.
 
@@ -57,7 +57,7 @@ To be specific, the following behaviors are unacceptable within our community:
   * Tone policing. Messages you see on nelson.social may violate the standards of civility we set on nelson.social, but you should not criticize users for their tone. If the user is a member of the nelson.social community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
 	* Advocating for, or encouraging, any of the above behavior.
 
-## 6. Consequences of Unacceptable Behavior
+## Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including those with decision-making authority, will not be tolerated.
 
@@ -65,7 +65,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
 
-## 7. Reporting Guidelines
+## Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
 
@@ -73,22 +73,22 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.
 
-## 8. Addressing Grievances
+## Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [GOVERNING_BODY] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
 
-## 9. Scope
+## Scope
 
 We expect all community participants to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## Contact info
 
 [YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
 
-## 11. License and attribution
+## License and attribution
 
-The Nelson.social Code of Conduct is distributed by [nelson.social](http://nelson.social) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+The nelson.social Code of Conduct is distributed by [nelson.social](http://nelson.social) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the [Social.coop Code of Conduct](https://wiki.social.coop/rules-and-bylaws/Code-of-conduct.html) and the [Fosstodon Code of Conduct](https://hub.fosstodon.org/coc/) and the [Ottawa.place Code of Conduct](https://ottawa.place/terms#coc).
