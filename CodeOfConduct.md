@@ -23,8 +23,10 @@ The city of Nelson exists on the traditional unceeded territory territories of t
 While it's important to know what nelson.social is, it's just as important to understand what nelson.social is not. Nelson.social is not:
 
 * A money-making exercise. This is a community-run website, made of open-source software, hosted and moderated by volunteers who live in your community. We are not going to [sell your data](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), or try to get you [addicted](https://www.theguardian.com/technology/2017/nov/09/facebook-sean-parker-vulnerability-brain-psychology) so that we can show you more ads. In fact, there are no ads!
-* A "free speech" zone. We encourage authentic, curious, respectful conversation, including disagreement, but we do not tolerate all forms of speech. We do not tolerate hate speech of any kind. [Bad-faith](https://en.wikipedia.org/wiki/Bad_faith) debating is equally unwelcome, as is misinformation. Focus on de-escalating conflict and promoting understanding whenever possible.
-* A place for general advertisement. Promoting your original work is welcome, but advertising others work or reselling items is not the primary goal for the instance, and you may [find another server](https://instances.social/) to be a better fit.
+* A "free speech" zone. We encourage authentic, curious, respectful conversation, including disagreement, but we do not tolerate all forms of speech. We do not tolerate hate speech of any kind. [Bad-faith](https://en.wikipedia.org/wiki/Bad_faith) debating is equally unwelcome, as is misinformation.
+* A place for general advertisement. Promoting your original work is welcome, but please avoid overly commercial self-promotion
+
+You may [find another server](https://instances.social/) to be a better fit if you don't like these rules.
 
 ## 3. Expected Behavior
 
@@ -40,6 +42,7 @@ The following behaviors are expected and requested of all community members:
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
+  * Anything in violation of our Terms of Service [LINK] including posting anything illegal in Canada.
   * Violence, threats of violence or violent language directed against another person.
   * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
   * Posting or displaying sexually explicit or violent material.
