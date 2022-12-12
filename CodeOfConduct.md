@@ -32,6 +32,7 @@ You may [find another server](https://instances.social/) to be a better fit if y
 
 The following behaviors are expected and requested of all community members:
 
+  * Be friendly, open and welcoming.
   * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration & de-escalation before conflict.
@@ -40,7 +41,9 @@ The following behaviors are expected and requested of all community members:
   
 ## 4. Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+If you wouldn't do it in Oso Negro, don't do it on nelson.social either.
+
+To be specific, the following behaviors are unacceptable within our community:
 
   * Anything in violation of our Terms of Service [LINK] including posting anything illegal in Canada.
   * Violence, threats of violence or violent language directed against another person.
@@ -50,8 +53,8 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
   * Unwelcome sexual attention. This includes, sexualized comments or jokes; unwelcomed sexual advances.
   * Deliberate intimidation, stalking or following (online or in person).
-	* Do not debate moderation actions in public. If you disagree with how a moderator enforced this Code of Conduct you may direct-message the moderation team.
-  * Do not tone police. Messages you see on nelson.social may violate the standards of civility we set on nelson.social, but you should not criticize users for their tone. If the user is a member of the nelson.social community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
+	* Debating moderation actions in public. If you disagree with how a moderator enforced this Code of Conduct you may direct-message the moderation team.
+  * Tone policing. Messages you see on nelson.social may violate the standards of civility we set on nelson.social, but you should not criticize users for their tone. If the user is a member of the nelson.social community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
 	* Advocating for, or encouraging, any of the above behavior.
 
 ## 6. Consequences of Unacceptable Behavior
