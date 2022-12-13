@@ -4,7 +4,7 @@ Welcome to nelson.social, an online space dedicated to the community of Nelson, 
 
 Here at nelson.social, we believe in the power of community and the importance of supporting one another in order to enrich our community. Whether you are a lifelong resident of Nelson, new to the region, or just passing through, we invite you to join the conversation and be a part of our community.
 
-In this space, you can share your thoughts and ideas, ask questions of your neighbours, and even plan events and activities. You can also connect with people from all over the world, because nelson.social is part of the Mastodon network. We like to think of it like a big WhatsApp or iMessage group, but where you can choose who to share with and whose messages you see, even if they aren’t members of nelson.social.
+In this space, you can share your thoughts and ideas, ask questions of your neighbours, and even plan events and activities. You can also connect with people from all over the world, because nelson.social is part of the [Mastodon](https://github.com/mastodon/) network. We like to think of it like a big WhatsApp or iMessage group, but where you can choose who to share with and whose messages you see, even if they aren’t members of nelson.social.
 
 We encourage you to be respectful and considerate of others, and to use this space to help build a stronger, more connected community in Nelson. We have a simple set of rules for the space that help the team that runs nelson.social ensure that we can be welcoming for everyone. We encourage you to read them, and also reach out to us if you encounter any problems, or have any questions.
 
@@ -23,6 +23,12 @@ This is a living document, and the nelson.social team welcome your feedback. W
 ### Guiding principle
 
 *If you wouldn't do it in Oso Negro, don't do it on nelson.social*
+
+### Handling conflict
+
+A diverse group of people has a diverse set of boundaries about what is OK. Sometimes one of us may make a mistake, and do something that inadvertently causes offence. When we observe this happen, we try to give the offender feedback quickly, clearly and constructively. We try to offer them the opportunity to maintain their dignity in the situation, to learn from and repair their mistake.
+
+This kind of learning and repair is how we strengthen our relationships and our community. However we will not tolerate anyone who deliberately or repeatedly breaks these rules.
 
 ### Consequences of Unacceptable Behavior
 
@@ -62,8 +68,10 @@ The following behaviors are expected and requested of all community members:
   * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration & de-escalation before conflict.
+  * If you inadvertently cause offence to someone else, take responsibility for your actions.
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
   * Be mindful of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+  
   
 ### Unacceptable Behavior
 

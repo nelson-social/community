@@ -10,7 +10,3 @@ A community for the lovely people in & around Nelson, BC.
 4. Don’t spam or excessive commercial posts
 5. Don't be a schmuck
 6. If you fuck up, own it
-
-## Moderation policy
-
-Everyone makes mistakes. If you violate the server rules, you’ll get a friendly reminder. Repeat-offenders get suspended, or banned. We use a four-eyes approach for moderation.
