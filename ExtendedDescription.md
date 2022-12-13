@@ -40,7 +40,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ### Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify a community organizer](#contact) by emailing [admin@nelson.social](mailto:admin@nelson.social) as soon as possible. We are here to help you. Your reports will be taken seriously, treated in confidence and will not be dismissed or argued with.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify a community organizer](#team) by emailing [admin@nelson.social](mailto:admin@nelson.social) as soon as possible. We are here to help you. Your reports will be taken seriously, treated in confidence and will not be dismissed or argued with.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.
 
@@ -111,10 +111,14 @@ Portions of text derived from:
 * [Ottawa.place Code of Conduct](https://ottawa.place/terms#coc)
 * [Cucumber Community Code of Conduct](https://cucumber.io/conduct)
 
-## Contact
+## Team
 
-Email [admin@nelson.social](mailto:admin@nelson.social) or contact one of the moderators:
+This server is hosted and run by a team of volunteers who live here in Nelson, BC:
 
 * [@blaine](https://nelson.social/web/@blaine)
 * [@matt](https://nelson.social/web/@matt)
 * [@till](https://nelson.social/web/@till)
+
+We're aware that we're three privileged white dudes (though only one born-Canadian! Yay im/migration!) and while we are happy to continue to pay for the costs of running the service and volunteer our labour, we would like to divest ourselves of power and would gladly welcome volunteers (and eventually paid staff, if appropriate) to help or lead decision-making. 
+
+Email [admin@nelson.social](mailto:admin@nelson.social) to contact us.
