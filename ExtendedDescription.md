@@ -88,6 +88,8 @@ To be specific, the following behaviors are unacceptable within our community:
 * Tone policing. Messages you see on nelson.social may violate the standards of civility we set on nelson.social, but you should not criticize users for their tone. If the user is a member of the nelson.social community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
 * Advocating for, or encouraging, any of the above behavior.
 
+Again, we suggest you [find another server](https://instances.social/) or even [set up your own](https://runyourown.social/) if you don't agree with these rules.
+
 ### Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify admin@nelson.social with a concise description of your grievance. Your grievance will be handled in due course by the moderation team.
