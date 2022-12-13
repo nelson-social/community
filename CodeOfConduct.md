@@ -1,16 +1,30 @@
 # nelson.social Code of Conduct
 
-This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+Nelson is home to people from all over the world who have a diverse set of skills, personalities, backgrounds and experiences. This diversity is wonderful, and we are committed to ensuring that the nelson.social community is a safe, enjoyable and thriving environment for the largest number possible of Nelson residents, their friends and family members.
 
-We are committed to providing a friendly, safe and welcoming environment for everyone regardless of qualities such as their gender identity or expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, nationality, ethnicity, socioeconomic status, family structure, spirituality, religion (or lack thereof), education, or other personal traits. We particularly celebrate diversity and do not tolerate bigotry or prejudice.
+To that end, we will strive to make this a friendly, safe and welcoming environment for everyone regardless of qualities such as their gender identity or expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, nationality, ethnicity, socioeconomic status, family structure, spirituality, religion (or lack thereof), education, or other personal traits. We particularly celebrate diversity and do not tolerate bigotry or prejudice.
 
-This is a living document, and the nelson.social team will amend this document as necessary to ensure the safety of our users.
+As a community, we expect any participant to act according to the following ground rules. They ensure that everyone within the community is clear about the behaviour that is expected of them, and that newcomers know what kind of environment they can expect to find here.
 
-This is not a legal document and our team will address gray areas as they arise. This document is to provide insight into the values that drive moderation decisions, and help you understand what you're siging up for.
+This is a living document, and the nelson.social team welcome your feedback. We will amend this document as necessary to ensure the safety of our users.
 
-## The land
+## Guiding principle
 
-The city of Nelson exists on the traditional unceeded territory territories of the Sinixt, the Syilx, and the Ktunaxa peoples, and is home to many diverse indigenous persons including the Metis. We are grateful to be able to live in this wonderful place, and to have the opportunity to provide this service to the people here.
+*If you wouldn't do it in Oso Negro, don't do it on nelson.social*
+
+## Consequences of Unacceptable Behavior
+
+Unacceptable behavior from any community member, including those with decision-making authority, will not be tolerated.
+
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
+
+## Reporting Guidelines
+
+If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify a community organizer](mailto:admin@mastodon.social) as soon as possible.
+
+Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.
 
 ## Goals
 
@@ -41,11 +55,9 @@ The following behaviors are expected and requested of all community members:
   
 ## Unacceptable Behavior
 
-If you wouldn't do it in Oso Negro, don't do it on nelson.social either.
-
 To be specific, the following behaviors are unacceptable within our community:
 
-  * Anything in violation of our Terms of Service [LINK] including posting anything illegal in Canada.
+  * Anything in violation of our [Terms of Service](https://nelson.social/terms) including posting anything illegal in Canada.
   * Violence, threats of violence or violent language directed against another person.
   * Using slurs or racist, sexist, homophobic, transphobic, ableist or otherwise discriminatory or hateful jokes or language; promoting white supremacy, anti-Semitism, transphobia, castism or other hateful ideologies.
   * Posting or displaying sexually explicit or violent material.
@@ -53,29 +65,13 @@ To be specific, the following behaviors are unacceptable within our community:
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
   * Unwelcome sexual attention. This includes, sexualized comments or jokes; unwelcomed sexual advances.
   * Deliberate intimidation, stalking or following (online or in person).
-	* Debating moderation actions in public. If you disagree with how a moderator enforced this Code of Conduct you may direct-message the moderation team.
+  * Debating moderation actions in public. If you disagree with how a moderator enforced this Code of Conduct you may direct-message the moderation team.
   * Tone policing. Messages you see on nelson.social may violate the standards of civility we set on nelson.social, but you should not criticize users for their tone. If the user is a member of the nelson.social community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
-	* Advocating for, or encouraging, any of the above behavior.
-
-## Consequences of Unacceptable Behavior
-
-Unacceptable behavior from any community member, including those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
-
-## Reporting Guidelines
-
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. 
-
-See https://nelson.social/web/@admin for how to contact the moderators.
-
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.
+  * Advocating for, or encouraging, any of the above behavior.
 
 ## Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [GOVERNING_BODY] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify admin@nelson.social with a concise description of your grievance. Your grievance will be handled in due course by the moderation team.
 
 ## Scope
 
@@ -85,10 +81,17 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact info
 
-https://nelson.social/web/@admin
+Email [admin@nelson.social](mailto:admin@nelson.social)
 
 ## License and attribution
 
 The nelson.social Code of Conduct is distributed by [nelson.social](http://nelson.social) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the [Social.coop Code of Conduct](https://wiki.social.coop/rules-and-bylaws/Code-of-conduct.html) and the [Fosstodon Code of Conduct](https://hub.fosstodon.org/coc/) and the [Ottawa.place Code of Conduct](https://ottawa.place/terms#coc).
+Portions of text derived from:
+
+- [Django Code of Conduct](https://www.djangoproject.com/conduct/)
+- [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+- [Social.coop Code of Conduct](https://wiki.social.coop/rules-and-bylaws/Code-of-conduct.html)
+- [Fosstodon Code of Conduct](https://hub.fosstodon.org/coc/)
+- [Ottawa.place Code of Conduct](https://ottawa.place/terms#coc)
+- [Cucumber Community Code of Conduct](https://cucumber.io/conduct)
