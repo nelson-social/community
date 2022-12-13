@@ -22,7 +22,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ### Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify a community organizer](#contact-info) by emailing [admin@nelson.social](mailto:admin@nelson.social) as soon as possible. We are here to help you. Your reports will be taken seriously, treated in confidence and will not be dismissed or argued with.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify a community organizer](#contact) by emailing [admin@nelson.social](mailto:admin@nelson.social) as soon as possible. We are here to help you. Your reports will be taken seriously, treated in confidence and will not be dismissed or argued with.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.
 
@@ -79,7 +79,7 @@ We expect all community participants to abide by this Code of Conduct in all com
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-### Contact info
+### Contact
 
 Email [admin@nelson.social](mailto:admin@nelson.social) or contact one of the moderators:
 
