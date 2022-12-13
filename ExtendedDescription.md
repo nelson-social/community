@@ -60,7 +60,7 @@ While it's important to know what nelson.social is, it's just as important to un
 
 You may [find another server](https://instances.social/) to be a better fit if you don't like these rules.
 
-### Expected Behavior
+### Encouraged Behavior
 
 The following behaviors are expected and requested of all community members:
 
