@@ -91,14 +91,6 @@ We expect all community participants to abide by this Code of Conduct in all com
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-### Contact
-
-Email [admin@nelson.social](mailto:admin@nelson.social) or contact one of the moderators:
-
-* [@blaine](https://nelson.social/web/@blaine)
-* [@matt](https://nelson.social/web/@matt)
-* [@till](https://nelson.social/web/@till)
-
 ### License and attribution
 
 The nelson.social Code of Conduct is distributed by [nelson.social](http://nelson.social) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
@@ -111,3 +103,11 @@ Portions of text derived from:
 - [Fosstodon Code of Conduct](https://hub.fosstodon.org/coc/)
 - [Ottawa.place Code of Conduct](https://ottawa.place/terms#coc)
 - [Cucumber Community Code of Conduct](https://cucumber.io/conduct)
+
+## Contact
+
+Email [admin@nelson.social](mailto:admin@nelson.social) or contact one of the moderators:
+
+* [@blaine](https://nelson.social/web/@blaine)
+* [@matt](https://nelson.social/web/@matt)
+* [@till](https://nelson.social/web/@till)
