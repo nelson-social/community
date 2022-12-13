@@ -81,7 +81,11 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ### Contact info
 
-Email [admin@nelson.social](mailto:admin@nelson.social)
+Email [admin@nelson.social](mailto:admin@nelson.social) or contact one of the moderators:
+
+* [@blaine](https://nelson.social/web/@blaine)
+* [@matt](https://nelson.social/web/@matt)
+* [@till](https://nelson.social/web/@till)
 
 ### License and attribution
 
