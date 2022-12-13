@@ -121,6 +121,6 @@ This server is hosted and run by a team of volunteers who live here in Nelson, B
 * [@matt](https://nelson.social/web/@matt)
 * [@till](https://nelson.social/web/@till)
 
-We're aware that we're three privileged white dudes (though only one born-Canadian! Yay im/migration!) and while we are happy to continue to pay for the costs of running the service and volunteer our labour, we would like to divest ourselves of power and would gladly welcome volunteers (and eventually paid staff, if appropriate) to help or lead decision-making. 
+We're well aware that we're three privileged white dudes (though only one born-Canadian! Yay im/migration!) and while we are happy to continue to pay for the costs of running the service and volunteer our labour, we would like to diversify the team, divest ourselves of power and would gladly welcome volunteers (and eventually paid staff, if appropriate) to help or lead decision-making. Please get in touch if you'd like to get involved!
 
 Email [admin@nelson.social](mailto:admin@nelson.social) to contact us.
