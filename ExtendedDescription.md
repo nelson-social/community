@@ -10,6 +10,10 @@ We encourage you to be respectful and considerate of others, and to use this spa
 
 We look forward to seeing you on nelson.social, and to building a vibrant and supportive community together. Welcome!
 
+## Land Acknowledgement
+
+We would like to acknowledge that in Nelson we live and work on the traditional, ancestral and unceded territory of Sinixt Peoples. We make this acknowledgment to show our respect for the tmxʷulaʔxʷ (homeland), and [Sinixt](https://bloodoflifecollective.org/sinixt.html) Nation. We feel privileged and grateful to be here, and we invite those reading this to explore their own relationship to place.
+
 ## Code of Conduct
 
 Nelson is home to people from all over the world who have a diverse set of skills, personalities, backgrounds and experiences. This diversity is wonderful, and we are committed to ensuring that the nelson.social community is a safe, enjoyable and thriving environment for the largest number possible of Nelson residents, their friends and family members.
