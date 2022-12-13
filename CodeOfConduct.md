@@ -1,4 +1,4 @@
-# nelson.social Code of Conduct
+## Code of Conduct
 
 Nelson is home to people from all over the world who have a diverse set of skills, personalities, backgrounds and experiences. This diversity is wonderful, and we are committed to ensuring that the nelson.social community is a safe, enjoyable and thriving environment for the largest number possible of Nelson residents, their friends and family members.
 
@@ -8,11 +8,11 @@ As a community, we expect any participant to act according to the following grou
 
 This is a living document, and the nelson.social team welcome your feedback. We will amend this document as necessary to ensure the safety of our users.
 
-## Guiding principle
+### Guiding principle
 
 *If you wouldn't do it in Oso Negro, don't do it on nelson.social*
 
-## Consequences of Unacceptable Behavior
+### Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including those with decision-making authority, will not be tolerated.
 
@@ -20,19 +20,19 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
 
-## Reporting Guidelines
+### Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify a community organizer](mailto:admin@mastodon.social) as soon as possible. We are here to help you. Your reports will be taken seriously, treated in confidence and will not be dismissed or argued with.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.
 
-## Goals
+### Goals
 
   1. Provide a safe and welcoming community space for discussing Nelson & area activities, news, events, and experiences.
   1. Provide a venue for both casual and serious conversation, with the ability for users to opt-out of unwanted content.
   1. Fun! We aim to foster a community of individuals and business that love being here in the Kootenays. We welcome personal posts, event notices and organizing.
 
-## Non-Goals
+### Non-Goals
 
 While it's important to know what nelson.social is, it's just as important to understand what nelson.social is not. Nelson.social is not:
 
@@ -42,7 +42,7 @@ While it's important to know what nelson.social is, it's just as important to un
 
 You may [find another server](https://instances.social/) to be a better fit if you don't like these rules.
 
-## Expected Behavior
+### Expected Behavior
 
 The following behaviors are expected and requested of all community members:
 
@@ -53,7 +53,7 @@ The following behaviors are expected and requested of all community members:
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
   * Be mindful of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
   
-## Unacceptable Behavior
+### Unacceptable Behavior
 
 To be specific, the following behaviors are unacceptable within our community:
 
@@ -69,21 +69,21 @@ To be specific, the following behaviors are unacceptable within our community:
   * Tone policing. Messages you see on nelson.social may violate the standards of civility we set on nelson.social, but you should not criticize users for their tone. If the user is a member of the nelson.social community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
   * Advocating for, or encouraging, any of the above behavior.
 
-## Addressing Grievances
+### Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify admin@nelson.social with a concise description of your grievance. Your grievance will be handled in due course by the moderation team.
 
-## Scope
+### Scope
 
 We expect all community participants to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## Contact info
+### Contact info
 
 Email [admin@nelson.social](mailto:admin@nelson.social)
 
-## License and attribution
+### License and attribution
 
 The nelson.social Code of Conduct is distributed by [nelson.social](http://nelson.social) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
