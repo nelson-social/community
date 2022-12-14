@@ -32,7 +32,7 @@ This is a living document, and the nelson.social team welcome your feedback. W
 
 A diverse group of people has a diverse set of boundaries about what is OK. Sometimes one of us may make a mistake, and do something that inadvertently causes offence. When we observe this happen, we try to give the offender feedback quickly, clearly and constructively. We try to offer them the opportunity to maintain their dignity in the situation, to learn from and repair their mistake.
 
-This kind of learning and repair is how we strengthen our relationships and our community. However we will not tolerate anyone who deliberately or repeatedly breaks these rules.
+This kind of learning and repair is how we strengthen our relationships and our community. However we will not tolerate anyone deliberately or repeatedly breaking these rules.
 
 ### Consequences of Unacceptable Behavior
 
