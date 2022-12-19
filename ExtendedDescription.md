@@ -80,7 +80,7 @@ The following behaviors are expected and requested of all community members:
 
 To be specific, the following behaviors are unacceptable within our community:
 
-* Anything in violation of our [Terms of Service](https://nelson.social/terms) including posting anything illegal in Canada.
+* Anything in violation of our [Terms of Service](https://nelson.social/terms) including posting anything illegal in British Columbia or Canada.
 * Violence, threats of violence or violent language directed against another person.
 * Using slurs or racist, sexist, homophobic, transphobic, ableist or otherwise discriminatory or hateful jokes or language; promoting white supremacy, anti-Semitism, transphobia, castism or other hateful ideologies.
 * Posting or displaying sexually explicit or violent material.
