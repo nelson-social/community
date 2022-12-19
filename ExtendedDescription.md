@@ -40,7 +40,7 @@ Unacceptable behavior from any community member, including those with decision-m
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary suspension or permanent ban from the community without warning.
 
 ### Reporting Guidelines
 
