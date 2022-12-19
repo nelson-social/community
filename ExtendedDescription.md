@@ -6,7 +6,7 @@ Here at nelson.social, we believe in the power of community and the importance o
 
 In this space, you can share your thoughts and ideas, ask questions of your neighbours, and even plan events and activities. You can also connect with people from all over the world, because nelson.social is part of the [Mastodon](https://github.com/mastodon/) network. We like to think of it like a big WhatsApp or iMessage group, but where you can choose who to share with and whose messages you see, even if they aren’t members of nelson.social.
 
-We encourage you to be respectful and considerate of others, and to use this space to help build a stronger, more connected community in Nelson. We have a simple set of rules for the space that help the team that runs nelson.social ensure that we can be welcoming for everyone. We encourage you to read them, and also reach out to us if you encounter any problems, or have any questions.
+We expect our members to be respectful and considerate of others, and to use this space to help build a stronger, more connected community in Nelson. We have a simple set of rules for the space that help the team that runs nelson.social ensure that we can be welcoming for everyone. Please read them, and reach out to us if you encounter any problems, or have any questions.
 
 We look forward to seeing you on nelson.social, and to building a vibrant and supportive community together. Welcome!
 
