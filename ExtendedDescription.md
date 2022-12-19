@@ -20,7 +20,7 @@ Nelson is home to people from all over the world who have a diverse set of skill
 
 To that end, we will strive to make this a friendly, safe and welcoming environment for everyone regardless of qualities such as their gender identity or expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, nationality, ethnicity, socioeconomic status, family structure, spirituality, religion (or lack thereof), education, or other personal traits. We particularly celebrate diversity and do not tolerate bigotry or prejudice.
 
-As a community, we expect any participant to act according to the following ground rules. They ensure that everyone within the community is clear about the behaviour that is expected of them, and that newcomers know what kind of environment they can expect to find here.
+As a community, we expect any participant to act according to the guidelines in this document. They ensure that everyone within the community is clear about the behaviour that is expected of them, and that newcomers know what kind of environment they can expect to find here.
 
 This is a living document, and the nelson.social team welcome your feedback. We will amend this document as necessary to ensure the safety of our users.
 
