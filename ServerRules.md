@@ -2,9 +2,4 @@
 
 1. Don't do anything you wouldn't do in Oso Negro
 2. Read and follow the Code of Conduct (https://nelson.social/about/more#code-of-conduct)
-3. No discriminatory or hateful language or jokes
-4. Don't post or threaten to post other people’s personally identifying information (i.e., doxing)
-5. Don't share intentionally false or misleading information
-6. Don't spam or engage in excessive commercial posting (business accounts are allowed, though)
-7. Don't do anything illegal in British Columbia or Canada
-8. Have fun and keep Nelson wierd
+3. Have fun and keep Nelson wierd
