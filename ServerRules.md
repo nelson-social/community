@@ -7,5 +7,4 @@
 5. Don't share intentionally false or misleading information
 6. Don't spam or engage in excessive commercial posting (business accounts are allowed, though)
 7. Don't do anything illegal in British Columbia or Canada
-8. Keep Nelson wierd
-9. Have fun
+8. Have fun and keep Nelson wierd
