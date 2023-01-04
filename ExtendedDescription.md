@@ -6,9 +6,9 @@ nelson.social is an online space dedicated to the community of Nelson, BC. Pleas
 
 At a high level, in order to create and maintain an active account and use the nelson.social online space, you agree:
 
-1. not to do anything you would not do in Oso Negro Coffee ☕️;
-2. to acknowledge that Nelson is on the unceded territory of the Sinixt Peoples ✊🏾;
-3. to comply with the Code of Conduct (https://nelson.social/about/more#code-of-conduct) 💖🏳️‍⚧️🏳️‍🌈; and 
+1. not to do anything you would not do in Oso Negro Coffee ☕️
+2. to acknowledge that Nelson is on the unceded territory of the Sinixt Peoples ✊🏾
+3. to comply with the [Code of Conduct](https://nelson.social/about/more#code-of-conduct) 💖🏳️‍⚧️🏳️‍🌈
 4. to keep Nelson wonderfully, genuinely, uncannily, [insert your own adjective] Nelson ⛷🏔🛶🦄🧜🏾‍♀️💃☮️🧘🏽‍♀️✌🏼🪴
 
 ## About
