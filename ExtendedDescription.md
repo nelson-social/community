@@ -107,7 +107,7 @@ damage which does not result from a breach of our obligations under the Terms of
 
 We are not liable for business losses. We only the nelson.social online space for your personal, non-commercial, and domestic use. If you use our online space for any other purpose we will have no liability to you for any loss of profit, loss of business, business interruption, loss of business opportunity, or similar loss.
 
-We are not responsible for any lack of functionality or failure to provide any part of the online splace, or any loss of content or data that is due to: your equipment, devices, operating system or internet connection; or your failure to comply with specified compatibility requirements.
+We are not responsible for any lack of functionality or failure to provide any part of the online place, or any loss of content or data that is due to: your equipment, devices, operating system or internet connection; or your failure to comply with specified compatibility requirements.
 
 To the extent not prohibited by applicable law, we shall not be liable to you for indirect, incidental, special or consequential damages, including lost profits and property damage, even if we were advised of the possibility of such damages, nor shall we be held liable for delay or failure in performance resulting from causes beyond our reasonable control.
 
