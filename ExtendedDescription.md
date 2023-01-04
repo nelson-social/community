@@ -1,3 +1,16 @@
+# nelson.social
+
+## Server Rules
+
+nelson.social is an online space dedicated to the community of Nelson, BC. Please carefully read our Terms of Use as set out on this page before using this online space. These terms govern your use of the nelson.social online space and by using the nelson.social online space, you agree to be bound by these terms.
+
+At a high level, in order to create and maintain an active account and use the nelson.social online space, you agree:
+
+1. not to do anything you would not do in Oso Negro Coffee ☕️;
+2. to acknowledge that Nelson is on the unceded territory of the Sinixt Peoples ✊🏾;
+3. to comply with the Code of Conduct (https://nelson.social/about/more#code-of-conduct) 💖🏳️‍⚧️🏳️‍🌈; and 
+4. to keep Nelson wonderfully, genuinely, uncannily, [insert your own adjective] Nelson ⛷🏔🛶🦄🧜🏾‍♀️💃☮️🧘🏽‍♀️✌🏼🪴
+
 ## About
 
 Welcome to nelson.social, an online space dedicated to the community of Nelson, BC! We’re excited to build a place where people from all walks of life can come together to share ideas and passions, build connections, or just hang out and chat.
