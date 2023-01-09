@@ -118,7 +118,7 @@ The nelson.social online space is provided “as is” and “as available.” W
 We shall not be liable for delay or failure in performance for causes beyond our control or any other
 damage which does not result from a breach of our obligations under the Terms of Use.
 
-We are not liable for business losses. We only the nelson.social online space for your personal, non-commercial, and domestic use. If you use our online space for any other purpose we will have no liability to you for any loss of profit, loss of business, business interruption, loss of business opportunity, or similar loss.
+We are not liable for business losses. We only provide the nelson.social online space for your personal, non-commercial, and domestic use. If you use our online space for any other purpose we will have no liability to you for any loss of profit, loss of business, business interruption, loss of business opportunity, or similar loss.
 
 We are not responsible for any lack of functionality or failure to provide any part of the online place, or any loss of content or data that is due to: your equipment, devices, operating system or internet connection; or your failure to comply with specified compatibility requirements.
 
