@@ -3,6 +3,7 @@
 _Last updated: Jan 4, 2023_
 
 nelson.social (or "we") is a server run on Mastodon open-source software and operated by a team of volunteers who live in Nelson, BC:
+
 - [@blaine](https://nelson.social/@blaine)
 - [@matt](https://nelson.social/@matt)
 - [@till](https://nelson.social/@till)
@@ -83,4 +84,3 @@ It is our policy to post any changes we make to our privacy policy on this page.
 ## Contact Information and Challenging Compliance
 
 We welcome your questions, comments, and requests regarding this privacy policy and our privacy practices. Please contact `admin@nelson.social`.
-
