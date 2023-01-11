@@ -8,8 +8,8 @@ At a high level, in order to create and maintain an active account and use the n
 
 1. not to do anything you would not do in Oso Negro Coffee ☕️
 2. to acknowledge that Nelson is on the unceded territory of the Sinixt Peoples ✊🏾
-3. to comply with the [Code of Conduct](https://nelson.social/about/more#code-of-conduct) 💖🏳️‍⚧️🏳️‍🌈
-4. to keep Nelson wonderfully, genuinely, uncannily, [insert your own adjective] Nelson ⛷🏔🛶🦄🧜🏾‍♀️💃☮️🧘🏽‍♀️✌🏼🪴
+3. to comply with the Code of Conduct 💖🏳️‍⚧️🏳️‍🌈
+4. to have fun and keep Nelson weird ⛷🏔🛶🦄🧜🏾‍♀️💃☮️🧘🏽‍♀️✌🏼🪴
 
 ## About
 
