@@ -7,7 +7,7 @@ nelson.social is an online space dedicated to the community of Nelson, BC. Pleas
 At a high level, in order to create and maintain an active account and use the nelson.social online space, you agree:
 
 1. not to do anything you would not do in Oso Negro Coffee ☕️
-2. to acknowledge that Nelson is on the unceded territory of the  Ktunaxa Nation, Sinixt Nation, and Syilx Peoples ✊🏾
+2. to acknowledge that Nelson is on the unceded territory of the Ktunaxa Nation, Sinixt Nation, and Syilx Peoples ✊🏾
 3. to comply with the Code of Conduct 💖🏳️‍⚧️🏳️‍🌈
 4. to have fun and keep Nelson weird ⛷🏔🛶🦄🧜🏾‍♀️💃☮️🧘🏽‍♀️✌🏼🪴
 
